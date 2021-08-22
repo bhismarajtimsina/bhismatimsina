@@ -13,7 +13,7 @@ end--𝐃𝐞𝐜 𝐛𝐲 𝐖𝐮𝐭𝐳𝐂𝐲𝐫𝐮𝐬
 if PASSW[1] == "" then
   gg.alert("❌Password incorrect❌")
 end--𝐃𝐞𝐜 𝐛𝐲 𝐖𝐮𝐭𝐳𝐂𝐲𝐫𝐮𝐬
-if PASSW[1] == "11" then
+if PASSW[1] == "99" then
   gg.toast("✔️Password correct✔")
 else
   gg.toast("Password failed Go To Youtube : NEWERANEPAL OFFICIAL ")
